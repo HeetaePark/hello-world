@@ -17,6 +17,8 @@
 
 #define OSX_EXT_VERSION "test"
 #define VBL_TEST 0x55AA
+#deifne GOP_TEST 0x01
+
 
 bool createDebugExt();
 
