@@ -16,6 +16,7 @@
 #include "DiagDriver.h"
 
 #define OSX_EXT_VERSION "test"
+#define VBL_TEST 0x55AA
 
 bool createDebugExt();
 
