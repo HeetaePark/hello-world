@@ -1,6 +1,8 @@
 #include <ntddk.h>
 #include <wdf.h>
 
+#defien TST_RING
+
 DRIVER_INITIALIZE DriverEntry;
 EVT_WDF_DRIVER_DEVICE_ADD KmdfHelloWorldEvtDeviceAdd;
 
