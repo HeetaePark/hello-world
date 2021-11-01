@@ -15,7 +15,7 @@
 #include "DebugExt.h"
 #include "DiagDriver.h"
 
-#define OSX_EXT_VERSION "5.0"
+#define OSX_EXT_VERSION "test"
 
 bool createDebugExt();
 
