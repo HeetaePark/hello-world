@@ -19,6 +19,7 @@
 #define VBL_TEST 0x55AA
 #deifne GOP_TEST 0x01
 
+/* comment for test */
 
 bool createDebugExt();
 
